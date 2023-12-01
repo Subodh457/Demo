@@ -1,2 +1,2 @@
-just for examole
+just for example
 # Demo
